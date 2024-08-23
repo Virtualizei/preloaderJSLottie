@@ -38,8 +38,7 @@ function hideOverlay() {
         renderer: 'svg', // ou 'canvas' se preferir
         loop: true,
         autoplay: true,
-        path: 'https://virtualizei.github.io/preloaderJSLottiePetzei
-/loading-zei-300.json',
+        path: 'https://virtualizei.github.io/preloaderJSLottie/loading-zei-300.json',
     });
 }
 
