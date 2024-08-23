@@ -39,7 +39,7 @@ function hideOverlay() {
         loop: true,
         autoplay: true,
         path: 'https://virtualizei.github.io/preloaderJSLottiePetzei
-/loading-zei.json',
+/loading-zei-300.json',
     });
 }
 
